@@ -21,7 +21,6 @@ h2 {
     font-style: normal;
     font-weight: normal;
     font-size: 60px;
-    line-height: 80px;
 }
 
 .diff_color {
@@ -35,7 +34,6 @@ h2 {
 .half {
     margin: 0% 5%;
     font-size: 18px;
-    line-height: 28px;
     margin-bottom: 100px;
 }
 
@@ -63,7 +61,6 @@ h2 {
 #mm {
     font-weight: bold;
     font-size: 48px;
-    line-height: 70px;
     text-align: center;
 }
 
@@ -117,6 +114,26 @@ h2 {
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-size: 200px 200px;
-    background-position-x: 1125px;
-    background-position-y: 208px;
+    background-position-x: 1140px;
+    background-position-y: 150px;
+}
+
+.foot {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.red {
+    color: red;
+}
+
+#lob {
+    font-family: Lobster;
+    font-size: 36px;
+}
+
+#man {
+    font-family: Manrope;
+    font-size: 14px;
 }
